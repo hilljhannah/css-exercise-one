@@ -1,3 +1,3 @@
 # css-exercise-one
 
-Exercise completed that focused on the basics of CSS
+A short exercise completed during my apprenticeship for UX/UI Design & Frontend Development utilizing CSS focusing on the basics of CSS
